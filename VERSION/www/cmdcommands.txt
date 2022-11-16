@@ -1,0 +1,17 @@
+CMD is an acronym for Command.;
+The command prompt is the command-line interpreter of the Windows operating system.;
+Command prompt makes use of the command-line interface to interact with the User.
+You can use the command "Ping";
+If you want to test the network connectivity between two systems, say source and destination, then you can use the ping command. It sends an ICMP or Internet Control Message Protocol to the destination system and waits for the response in the form of packets.;
+Command "Netstat";
+It displays the active TCP connections and ports on which the system is currently listening.;
+Command "Tracert";
+The tracert command traces the path of the destination system from which it receives the packets of information as a response.;
+Command"Ipconfig";
+Often comes up as the most-used networking command on Windows.;
+Not only is it useful for the information it provides, but you can combine it with a couple of switches to execute certain tasks.;
+Command "Nslookup";
+Its main use is finding out the IP address behind a certain domain name.;
+These are some of the commands on CMD;
+Touch commands below the cmd to check each command's output.
+|

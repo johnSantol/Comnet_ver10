@@ -1,0 +1,14 @@
+................;
+|
+Business is business.;
+|
+You're looking for an item?;
+I always have special bullets to defeat those zombies.;
+Special Bullets are very effective on zombies.;
+I'm keeping these bullets to defend myself against those zombies.;
+If you want to have some.... you need to earn it.;
+Complete some tasks for me.;
+Complete my unfinished activities, for every correct answer you've done...;
+I will give you X1 special bullet which you can directly use to defeat those zombies.;
+Talk to the teacher then go back to my shop.;
+| 

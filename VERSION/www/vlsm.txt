@@ -1,0 +1,53 @@
+Variable Length Subnet Mask (VLSM);
+More than one mask is used for different subnets of a single network.;
+It is used to increase the usability of subnets as they can be variable in size.;
+It is also defined as the process of subnetting a subject.;
+On Subnetting remember that each address is made up of a string of 32 bits, divided into four sections called octets.;
+Each octet contains 8 bits.;
+4th Octet
+/32 = 1 (Host)
+/31 = 2 (Host)
+/30 = 4 (Hosts)
+/29 = 8 (Hosts)
+/28 = 16 (Hosts)
+/27 = 32 (Hosts)
+/26 = 64 (Hosts)
+/25 = 128 (Hosts); 
+3rd Octet
+/24 = 256 (Hosts)
+/23 = 512 (Hosts)
+/22 = 1024 (Hosts)
+/21 = 2048 (Hosts)
+/20 = 4096 (Hosts)
+/19 = 8192 (Hosts)
+/18 = 16384 (Hosts)
+/17 = 32768 (Hosts); 
+You will be using this to identify the correct subnet mask, network address, and broadcast address on each host needed.;
+For Example, the address is 192.168.10.0/24 and we need 2 subnets of 100 and 50 hosts.;
+As hosts are already arranged in descending order, we will first get the subnet mask of 100 hosts;
+If we're going to look at a cheat sheet we can see that 100 host is under /25;
+4th Octet
+/26 = 64 (Hosts)
+/25 = 128 (Hosts);
+We can't use /26 because 64-2 hosts are 62.
+/25 has 128 host deducted by 2 host for the network address and broadcast address, so we are going to use subnet mask /25
+;
+Since we found our /25 on the 4th octet, then we're going to increment on the 4th octet.;
+On our address 192.168.10.0 our 4th octet's value is 0
+192 (1st octet)
+168 (2nd octet)
+10 (3rd octet)
+0 (4th octet);
+Increment it by 128 ( this 128 is the positional value of /25) to get the next Network Address.
+192.168.10.0 + 128 = 192.168.10.128;
+ 192.168.10.128 is the new Network Address of 50 Hosts
+Check the table below;
+And to get the first Broadcast Address, just simply deduct 1 bit from the new Network Address.
+192.168.10.128 - = 192.168.10.127;
+192.168.10.127 is the new Broadcast Address of 100 Hosts;
+So the Last Usable address will be 192.168.10.126;
+..........................................;
+You can try the calculator to understand it easily;
+
+
+

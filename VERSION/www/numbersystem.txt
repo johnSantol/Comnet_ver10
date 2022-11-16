@@ -1,0 +1,15 @@
+Binary numbering system consists of 1s and 0s.;
+I will teach you a simple way to convert binary to decimal.;
+To easily convert Binary to decimal, just always remember the pattern of 128,64,32,16,8,4,2,1.;
+The first numbers from the right starting from 1 are doubled (=2) then 2 is doubled (=4) and so on.;
+A 1 on binary means "true" or "on" while 0 means "false" and off.;
+For example, in a binary 101, the position value would be 4+2+1, (1*4)+(0*2)+(1*1), this would be 4+0+1=5;So binary 101 is equal to 5.;
+Another example is Binary 1101.. just always remember the pattern 128,64,32,16,8,4,2,1  since we only have 4 digits on binary 1101 we'll be using 8,4,2,1 only.;
+Calculate it just like before, 1101 = (1*8)+(4*1)+(2*0)+(1*1) = 8+4+0+1 = 13;
+That's all for converting binary to decimal;
+You need to learn this because Hosts, servers, and network equipment use binary addressing to identify each other.;
+Each address is made up of a string of 32 bits, divided into four sections called octets.;
+Each octet contains 8 bits separated by a dot.;
+Before you proceed on the Ip Address Topic, You have to talk to Citizen 1 first.
+Find Citizen1 and Talk to him.
+|

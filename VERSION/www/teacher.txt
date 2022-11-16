@@ -1,0 +1,7 @@
+................;
+|
+The shop owner in this village is greedy;
+|
+I've seen some bullets in the shop;
+Ask the Shop Owner if it's a special bullet.;
+|

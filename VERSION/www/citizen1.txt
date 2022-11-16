@@ -1,0 +1,7 @@
+Welcome to our village.;
+We've been waiting for you.;
+Zombies are approaching this village.;
+Find the Village Chief, he's always talking about the zombies.;
+|
+Find the Village Chief.;
+|

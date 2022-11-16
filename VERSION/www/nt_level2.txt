@@ -1,0 +1,30 @@
+Which of the following is a Star Topology?;
+Star Topology;
+|
+Its first node is connected to the last node which links the loop together.;
+Ring Topology;
+|
+Which of the following is a Bus Topology?;
+Bus Topology;
+|
+Which of the following is the Ring Topology?;
+Ring Topology;
+|
+Which of the following topology is consist of 3 different nodes?;
+Tree Topology;
+|
+Which of the following is the Tree Topology?;
+Tree Topology;
+|
+It is a network type where every device is connected to a single cable that runs from one end of the network to the other.;
+Bus Topology;
+|
+A topology where every node in the network is connected to one central switch.;
+Start Topology;
+|
+Smaller networks with this type of topology use a coaxial or RJ45 cable to link devices together.;
+Bus Topology;
+|
+Topologies that have a root node that is connected to another node hierarchy;
+Bus Topology;
+|
